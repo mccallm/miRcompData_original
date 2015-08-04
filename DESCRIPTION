@@ -1,0 +1,13 @@
+Package: miRcompData
+Version: 0.99.0
+Date: 2015-07-31
+Title: Data used in the miRcomp package
+Description: Raw amplification data from a large microRNA mixture / dilution 
+    study. These data are used by the miRcomp package to assess the performance 
+    of methods that estimate expression from the amplification curves. 
+Author: Matthew N. McCall <mccallm@gmail.com>
+Maintainer: Matthew N. McCall <mccallm@gmail.com>
+Depends: R (>= 3.1.0), 
+Imports: utils
+License: GPL-3
+biocViews: ExperimentData, ExpressionData, qPCRData, Homo_sapiens_Data
